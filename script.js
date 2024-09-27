@@ -1,6 +1,6 @@
 const passwordBox = document.querySelector("#password")
 const length = 12;
-const allChar = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+-";
+const allChar = "AB34CDtuvwEFGHQRS567TUVW)_+XYZ#$%^&abcdefghijklmnopIJKLMNOPqrsxyz01289!@*(-";
 
 
 function generatePass(){
